@@ -53,9 +53,6 @@ void loop(){
            delay(1000);
            digitalWrite(buzzer, LOW); 
         break;
-        case 4:
-              //Reservado para nova funcionalidade
-        break;         
      }
    
   } 
